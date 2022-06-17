@@ -51,4 +51,5 @@ Create migrations for your new model using the makemigrations Django command.
 Run all migrations using the migrate Django command.
 
 
+<img width="1440" alt="Screenshot 2022-06-17 at 20 15 03" src="https://user-images.githubusercontent.com/56538561/174388631-63bab788-e393-49a7-ae04-c62ed06b9659.png">
 
